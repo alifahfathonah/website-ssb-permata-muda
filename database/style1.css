@@ -1,0 +1,92 @@
+body{
+	background-color: #f9f9f9;
+	font-size: 16px;
+	color: #444;
+	font-family: arial;
+}
+
+.content{
+	width: 100%;
+	margin: 10px auto;
+	background-image: url("http://www.com/c:/xammpp/htdocs/web1 image/ssb.jpg");
+	background-size: 100%;
+	min-height: 100%;
+}
+.konten{
+	width: 100%;
+	min-height: 100px;
+	margin: 10px auto;
+	height: 100%;
+}
+
+/*header*/
+header{
+	background-color: white;
+	padding: 10px 10px;
+	border-radius: 5px;
+	border: 1px solid #f0f0f0;
+	margin-bottom: 10px;
+}
+
+header h4.logo{
+	text-align: center;
+	width: 100px
+     height: 150px;
+}
+
+/*menu navigasi*/
+
+ 
+ #menu nav {
+ margin:auto;
+ text-align: center;
+ width: 100%;
+ font-family: arial;
+ } 
+ nav ul {
+ background:#37988e;
+ padding: 0 20px;
+ list-style: none;
+ position: relative;
+ display: inline-table;
+ width: 97%;
+ }
+ nav ul li{
+ float:left;
+ }
+
+ nav ul li:hover{
+ background:#d68d9a;
+ }
+
+ nav ul li:hover a{
+ color:#000;
+ }
+
+ nav ul li a{
+ display: block;
+ padding: 25px;
+ color: #fff;
+ text-decoration: none;
+}
+div.badan{
+	background-color: white;
+	background-radius: 5px;
+	border: 1px solid #f0f0f0;
+	margin-bottom: 10px;
+}
+footer {
+	margin:auto;
+	position: static;
+	min-height: 100%;
+	color: #fff;
+	background-color: #000 ;
+	clear: left;
+	padding: 70px;
+	text-align: left;
+
+}
+
+}
+
+
